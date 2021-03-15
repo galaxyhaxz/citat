@@ -9,3 +9,5 @@ These are some of my favorite poems and quotes that have either made me laugh, t
 > *I want a webpage to be a page, not an amusement park ride.* - **Anonymous**
 
 > *There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.* - **Anonymous**
+
+> *"Great Android games." I've heard a lot of talk of those. Never actually seen one.* - **Anonymous**
