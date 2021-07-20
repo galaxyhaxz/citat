@@ -10,6 +10,8 @@ These are some of my favorite poems and quotes that have either made me laugh, t
 
 > *I would rather be judged by 12 than buried by 6...*
 
+> *Low skill jobs are the backbone of our capitalist economy. It could not have been built otherwise.*
+
 ### Misc
 
 [Life Eternal](life_eternal.md) - Per Yngve Ohlin's (R.I.P.) final words
