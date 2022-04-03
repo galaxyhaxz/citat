@@ -1,4 +1,7 @@
-These are some of my favorite poems and quotes that have either made me laugh, think deeply, or touched my heart. This repo will keep track of them so I will never lose them. Whether said by complete strangers on the internet, ~non-existent friends~, family, or famous historical figures, all is here!
+### Comments
+
+> *Browsers were fast and lightweight before Javascript was common. Many, perhaps most, new HTML 5 features do not help provide more content to benefit end users, but are focused on either spying on them (javascript, cookies, etc) or locking down content (everything from DRM, to sites that won't even display anything without javascript enabled).<br><br>
+If the browser vendors simply said "javascript is disabled by default; just as location-services are" -- web designers would go back to making more informative and less intrusive websites like they did before.*
 
 ### Quotes
 
