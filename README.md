@@ -15,6 +15,4 @@ If the browser vendors simply said "javascript is disabled by default; just as l
 
 > *Low skill jobs are the backbone of our capitalist economy. It could not have been built otherwise.*
 
-### Misc
-
-[Life Eternal](life_eternal.md) - Per Yngve Ohlin's (R.I.P.) final words
+> *America is a pay to win country, but at the same time it's deteriorating.*
