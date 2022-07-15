@@ -18,3 +18,5 @@ If the browser vendors simply said "javascript is disabled by default; just as l
 > *Low skill jobs are the backbone of our capitalist economy. It could not have been built otherwise.*
 
 > *America is a pay to win country, but at the same time it's deteriorating.*
+
+> *Birds born in a cage believe they are free.*
