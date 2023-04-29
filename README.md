@@ -24,3 +24,5 @@ It is absolutely true that you will draw from a smaller pool of people when hiri
 > *America is a pay to win country, but at the same time it's deteriorating.*
 
 > *Birds born in a cage believe they are free.*
+
+> *Electron all by itself is not a bad thing. Problem is that it is akin to a nuclear bomb being used to kill a wasp.*
