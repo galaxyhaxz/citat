@@ -5,6 +5,8 @@ If the browser vendors simply said "javascript is disabled by default; just as l
 
 > *You must remember Americans (I am one) are generally poorly educated compared to other developed countries. This is by design, and there is a powerful propaganda arm here that actively undermines efforts to make progress in educating the population.*
 
+> *That's the ultimate problem for Americans who want to leave. To leave, you have to want out of this system. To want out, it must not work for you. To have the money and education to get out, it has to work for you, so it's unlikely those who want to leave can do so.*
+
 > C is faster, gives you more control and compiles faster, so it would actually be better for writing cutting edge software and the advantages would be magnified in a large project<br><br>
 Modern software development theory is in general about replacing understanding with memorization and sacrificing software quality to save developer time - it's at its best when you're making a small toy app where occasional bugs are acceptable, and its worst when you're making a large cutting-edge project where every bug is serious<br><br>
 It is absolutely true that you will draw from a smaller pool of people when hiring, but then again those people might be self-selected in a way that's beneficial for you
